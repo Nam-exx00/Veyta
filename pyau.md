@@ -1,6 +1,6 @@
 # Veyta Tye Pyau
 
-Can **English** ban **Veyta**.
+Can **Yidagelishy** ban **Veyta**.
 
 ## Ban
 | Veyta | Ban |
@@ -57,7 +57,7 @@ Can **English** ban **Veyta**.
 | dau | Inside is said. |
 
 ## Sua
-| English | Veyta |
+| Yidagelishy | Veyta |
 |---|---|
 | I | gida |
 | you | nida |
@@ -72,7 +72,7 @@ Can **English** ban **Veyta**.
 | architecture | rin |
 | prefix | tuki |
 | suffix | luki |
-| plus/and | gay |
+| plus/and/add | gay |
 | subtract | pay |
 | syntax | kin |
 | dictionary | pyau |
@@ -96,10 +96,18 @@ Can **English** ban **Veyta**.
 | before | tin |
 | future | cin |
 | question | lan |
-| Yidagelishy | English |
+| English | Yidagelishy |
+| day | nore |
+| week | sore |
+| mounth | dore |
+| year | lore |
+| read | dan |
+| write | ran |
+| doing | are |
+| any/some/a lot/lots of | cou | 
 
 ## Dua
-| English | Veyta |
+| Yidagelishy | Veyta |
 |---|---|
 | (name) is/are created by (location) | Yeu (location) tau (name) |
 | Because (sth) | Ay (sth) |
